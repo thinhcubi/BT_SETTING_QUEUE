@@ -1,6 +1,6 @@
 <?php
- class Node
- {
-     public $value;
-     public $next;
- }
+class Node
+{
+    public $value;
+    public $next;
+}
